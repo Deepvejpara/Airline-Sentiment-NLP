@@ -27,7 +27,7 @@ An interactive Streamlit application is planned to demonstrate the sentiment ana
 
 **Live Application:** Coming Soon
 
-<!https://airline-sentiment-nlp-zacxzbmlw6yttonezqz3fe.streamlit.app>
+<!https://airline-sentiment-nlp-zacxzbmlw6yttonezqz3fe.streamlit.app/>
 
 ## 🎥 Video Walkthrough
 

@@ -217,7 +217,7 @@ if predict_clicked:
     else:
         # Normal Prediction Flow across the 3 Approaches
         if approach.startswith("Heuristic"):
-            pred_label, pos_cnt, neg_cnt = heuristic_sentiment(working_text, return_details=True)
+            pred_label, pos_cnt, neg_cnt = heuristic_sentiment(working_text)
             display_coloured_sentiment(
                 pred_label,
                 f"Positive matches: {pos_cnt} | Negative matches: {neg_cnt} (with 2-word negation flip)",

@@ -35,7 +35,7 @@ A video walkthrough will demonstrate the complete project, including data prepro
 
 **Project Demonstration:** Coming Soon
 
-<!https://drive.google.com/drive/folders/1GEcYqlI21NEHEK0yYanRAjpjnvwyY_UI?usp=drive_link>
+<!https://drive.google.com/drive/folders/1GEcYqlI21NEHEK0yYanRAjpjnvwyY_UI?usp=drive_link >
 
 ## 🎯 Project Objectives
 

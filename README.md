@@ -14,28 +14,17 @@ The primary objective is to identify whether customer feedback expresses:
 - 😐 **Neutral** – Informational or neutral feedback.
 - 😠 **Negative** – Complaints, dissatisfaction, and negative experiences.
 
-## 🌐 Streamlit Application
+## 🚀 Live Application
 
-An interactive Streamlit application is planned to demonstrate the sentiment analysis pipeline through a user-friendly interface.
+Explore the deployed application:
 
-**Planned Features:**
-- Enter custom airline-related text.
-- Generate sentiment predictions.
-- Display predicted sentiment categories.
-- Explore model predictions interactively.
-- Visualize relevant sentiment insights.
-
-**Live Application:** Coming Soon
-
-<!https://airline-sentiment-nlp-zacxzbmlw6yttonezqz3fe.streamlit.app/ >
+[**Open Airline Tweets Sentiment Analysis App**](https://airline-sentiment-nlp-zacxzbmlw6yttonezqz3fe.streamlit.app/)
 
 ## 🎥 Video Walkthrough
 
-A video walkthrough will demonstrate the complete project, including data preprocessing, NLP techniques, feature extraction, model development, evaluation, and application functionality.
+Watch the complete project walkthrough, including implementation and project demonstrations:
 
-**Project Demonstration:** Coming Soon
-
-<!https://drive.google.com/drive/folders/1GEcYqlI21NEHEK0yYanRAjpjnvwyY_UI?usp=drive_link >
+[**View Project Walkthrough (Google Drive)**](https://drive.google.com/drive/folders/1GEcYqlI21NEHEK0yYanRAjpjnvwyY_UI?usp=drive_link)
 
 ## 🎯 Project Objectives
 
